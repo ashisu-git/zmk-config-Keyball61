@@ -47,7 +47,7 @@
 &trans  &trans  &trans    &kp PAGE_UP    &trans   &trans                    &trans      &trans          &kp UP_ARROW      &trans             &kp PRINTSCREEN  &trans
 &trans  &trans  &kp HOME  &kp PAGE_DOWN  &kp END  &trans                    &trans      &kp LEFT_ARROW  &kp DOWN_ARROW    &kp RIGHT_ARROW    &trans           &trans
 &trans  &trans  &trans    &trans         &trans   &trans  &kp F11  &kp F12  &kp INSERT  &trans          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans           &trans
-&trans  &mo 2   &trans    &trans         &trans   &trans  &trans   &trans   &mo 2                                                            &trans           &trans
+&mo 2   &trans  &trans    &trans         &trans   &trans  &trans   &trans   &mo 2                                                            &trans           &trans
             >;
 
             label = "2ND";
